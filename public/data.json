@@ -1,0 +1,71 @@
+[
+    {
+      "name": "Gordon Ramsay",
+      "verify": true,
+      "description": "Gordon Ramsay is a British chef, restaurateur, television personality, and writer. He has been awarded a total of 16 Michelin stars, and is known for his fiery temper and high standards in the kitchen.",
+      "_id": "1",
+      "img": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=740&t=st=1684165110~exp=1684165710~hmac=503fb2e20035049c686ff2a4929aa351da94c6bae641cda9080f6cb1aafd60ce",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "likes": 1000,
+      "specialty": "Italian cuisine"
+    },
+    {
+      "name": "Jamie Oliver",
+      "verify": true,
+      "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his campaigns to improve the quality of school meals and promote healthy eating. His recipes often feature bold flavors and a focus on fresh, seasonal ingredients.",
+      "_id": "2",
+      "img": "https://img.freepik.com/premium-photo/man-smiling-feeling-confident-successful-happy_1194-139414.jpg?w=740",
+      "years_of_experience": 8,
+      "num_recipes": 30,
+      "likes": 750,
+      "specialty": "French cuisine"
+    },
+    {
+      "name": "Nigella Lawson",
+      "verify": false,
+      "description": "Nigella Lawson is an English food writer and television personality. She is the host of several cooking shows, and has written several best-selling cookbooks. Her recipes often feature a mix of traditional British dishes and international flavors.",
+      "_id": "3",
+      "img": "https://img.freepik.com/free-photo/female-chef-pointing-thumb-side-white-uniform-looking-cheerful_176474-12692.jpg?w=740&t=st=1684165159~exp=1684165759~hmac=812c5355ebce8bf82b2bc6bfad6adf8a4ed4dd32b92289c2a81114eb3ca75699",
+      "years_of_experience": 5,
+      "num_recipes": 20,
+      "likes": 500,
+      "specialty": "Asian cuisine"
+    },
+    {
+      "name": "Anthony Bourdain",
+      "verify": true,
+      "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his love of travel and exploration, and his work often focused on the intersection of food, culture, and politics. He passed away in 2018, but his legacy as a culinary icon continues to inspire many.",
+      "_id": "4",
+      "img": "https://img.freepik.com/premium-photo/happy-young-chef-asking-silence-gesturing-with-his-finger_1459-16081.jpg?w=740",
+      "profile_picture": "https://example.com/images/chef4.jpg",
+      "years_of_experience": 15,
+      "num_recipes": 100,
+      "likes": 2000,
+      "specialty": "Mediterranean cuisine"
+    },
+    {
+      "name": "Yotam Ottolenghi",
+      "verify": false,
+      "description": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and food writer. He is the author of several best-selling cookbooks, and his recipes often feature a fusion of Middle Eastern and Mediterranean flavors. He is also known for his focus on vegetarian and plant-based cooking.",
+      "_id": "5",
+      "img": "https://img.freepik.com/free-photo/impressed-young-male-cook-chef-uniform-doing-tasty-gesture-isolated-pink-wall-with-copy-space_141793-101545.jpg?w=740&t=st=1683024493~exp=1683025093~hmac=671a01567829e60e2703a817740065e5421dbd5836df56c4085949867469b61c",
+      "profile_picture": "https://example.com/images/chef5.jpg",
+      "years_of_experience": 12,
+      "num_recipes": 75,
+      "likes": 1500,
+      "specialty": "Mexican cuisine"
+    },
+    {
+      "name": "Ina Garten",
+      "verify": true,
+      "description": "Ina Garten, also known as the Barefoot Contessa, is a cookbook author, television personality, and former chef. She is known for her approachable and elegant recipes that emphasize the use of fresh, seasonal ingredients. Garten has hosted several popular cooking shows, including Barefoot Contessa and Cook Like a Pro.",
+      "_id": "6",
+      "img": "https://img.freepik.com/free-photo/chef-working-together-professional-kitchen_23-2149727991.jpg?w=740&t=st=1683024541~exp=1683025141~hmac=5cf36cec6278559f085b9e8656504f4be9d7ff32acd6196ca54b2eb43decf44f",
+      "profile_picture": "https://example.com/images/chef6.jpg",
+      "years_of_experience": 7,
+      "num_recipes": 40,
+      "likes": 600,
+      "specialty": "Vegetarian cuisine"
+    }
+  ]
